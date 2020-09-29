@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P1contadorclics</string>
+    <string name="text_clics">0</string>
+    <string name="text_button">+ 1</string>
+    <string name="Numero">0</string>
+    <string name="TextButton">+1</string>
+    <string name="reset">RESET</string>
+    <string name="reset_all">RESET ALL</string>
+    <string name="more1">+1</string>
+
+
+</resources>
